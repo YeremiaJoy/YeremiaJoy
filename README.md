@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yeremia Joy Y.T</h1>
-<h3 align="center">I interested in Frontend Development</h3>
+<h3 align="center">I'm a Software Engineer - Frontend</h3>
 
 - 🌱 I’m currently learning **Javascript framework i.e Create React App (CRA), Next.js, Vue.js, and Typescript**
 
