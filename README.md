@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Javascript framework i.e Create React App (CRA), Next.js, Vue.js, and Typescript**
 
-- 👨‍💻 Visit my portfolio website at [yeremiajoy.me](yeremiajoy.me)
+- 👨‍💻 Visit my portfolio website at [yeremiajoy.vercel.app](yeremiajoy.vercel.app)
 
 - 📫 Don't hesitate to contact me via email: **yeremiajoy@gmail.com**
 
